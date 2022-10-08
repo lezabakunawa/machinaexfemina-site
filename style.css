@@ -8,7 +8,7 @@
 
 /* mobile design 393 max */
 
-@media only screen and (min-width: 375px) {
+@media only screen and (max-width: 450px) {
 
     header {
         background-image: url(../machinaexfemina-site/imgs/assets/mxf\ black.png);
