@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: 'Roboto Mono';
-        src: url('robotomono-regular-webfont.eot');
-        src: url('robotomono-regular-webfont.eot?#iefix') format('embedded-opentype'),
-            url('robotomono-regular-webfont.woff2') format('woff2'),
-            url('robotomono-regular-webfont.woff') format('woff'),
-            url('robotomono-regular-webfont.ttf') format('truetype'),
-            url('robotomono-regular-webfont.svg#roboto_monoregular') format('svg');
+        src: url('fonts/robotomono-regular-webfont.eot');
+        src: url('fonts/robotomono-regular-webfont.eot?#iefix') format('embedded-opentype'),
+            url('fonts/robotomono-regular-webfont.woff2') format('woff2'),
+            url('fonts/robotomono-regular-webfont.woff') format('woff'),
+            url('fonts/robotomono-regular-webfont.ttf') format('truetype'),
+            url('fonts/robotomono-regular-webfont.svg#roboto_monoregular') format('svg');
 }
 
 
