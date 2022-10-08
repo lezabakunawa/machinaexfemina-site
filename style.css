@@ -6,20 +6,20 @@
 
 }
 
-@font-face {
-    font-family: 'Roboto Mono';
-    src: url('robotomono.eot'); /* IE9 Compat Modes */
-    src: url('robotomono.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('robotomono.woff2') format('woff2'), /* Super Modern Browsers */
-         url('robotomono.woff') format('woff'), /* Pretty Modern Browsers */
-         url('robotomono.ttf')  format('truetype'), /* Safari, Android, iOS */
-         url('robotomono.svg#svgRobotoMono') format('svg'); /* Legacy iOS */
-  }
-
 
 /* mobile design 393 max */
 
 @media only screen and (min-width: 375px) {
+
+    @font-face {
+        font-family: 'Roboto Mono';
+        src: url('robotomono.eot'); /* IE9 Compat Modes */
+        src: url('robotomono.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+             url('robotomono.woff2') format('woff2'), /* Super Modern Browsers */
+             url('robotomono.woff') format('woff'), /* Pretty Modern Browsers */
+             url('robotomono.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('robotomono.svg#svgRobotoMono') format('svg'); /* Legacy iOS */
+      }
 
     header {
         background-image: url(../machinaexfemina-site/imgs/assets/mxf\ black.png);
