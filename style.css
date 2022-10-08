@@ -32,12 +32,14 @@
 
     footer {
         height: 300px;
-        background-size: cover;
-        background-position: right;
         width: 100%;
         margin-top: 0px;
-
         background: #000;
+    }
+
+    .footerlinks {
+        float: center;
+        margin-right: 100px;
     }
 
     h1 {
@@ -248,8 +250,14 @@
             background-position: right;
             width: 100%;
             margin-top: 0px;
-
             background: #000;
+        }
+
+        .footerlinks {
+            float: right;
+            margin-top: 50px;
+            margin-right: 200px;
+            font-size: 16px;
         }
 
         h1 {
@@ -337,7 +345,7 @@
         }
 
         .logo img {
-            margin-top: 25px;
+            margin-top: 50px;
             margin-left: 100px;
             float: left;
             width: 250px;
