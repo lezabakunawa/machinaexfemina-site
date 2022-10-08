@@ -1,22 +1,23 @@
 * {
     margin: 0;
     padding: 0;
-}
-
-@font-face {
     font-family: 'Roboto Mono';
-        src: url('fonts/robotomono-regular-webfont.eot');
-        src: url('fonts/robotomono-regular-webfont.eot?#iefix') format('embedded-opentype'),
-            url('fonts/robotomono-regular-webfont.woff2') format('woff2'),
-            url('fonts/robotomono-regular-webfont.woff') format('woff'),
-            url('fonts/robotomono-regular-webfont.ttf') format('truetype'),
-            url('fonts/robotomono-regular-webfont.svg#roboto_monoregular') format('svg');
 }
 
 
 /* mobile design 393 max */
 
 @media only screen and (min-width: 375px) {
+
+    @font-face {
+        font-family: 'Roboto Mono';
+            src: url('fonts/robotomono-regular-webfont.eot');
+            src: url('fonts/robotomono-regular-webfont.eot?#iefix') format('embedded-opentype'),
+                url('fonts/robotomono-regular-webfont.woff2') format('woff2'),
+                url('fonts/robotomono-regular-webfont.woff') format('woff'),
+                url('fonts/robotomono-regular-webfont.ttf') format('truetype'),
+                url('fonts/robotomono-regular-webfont.svg#roboto_monoregular') format('svg');
+    }
 
 
     header {
