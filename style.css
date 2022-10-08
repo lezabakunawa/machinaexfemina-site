@@ -1,6 +1,8 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Roboto Mono', sans-serif;
+    color:#f8f8f8;
 
 }
 
@@ -30,7 +32,7 @@
     }
 
     h1 {
-        font-family: 'Roboto Mono', serif;
+        font-family: 'Roboto Mono', sans-serif;
         font-size: 24px;
         font-weight: none;
         color: #16f111;
@@ -38,32 +40,32 @@
     }
 
     h2 {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         font-size: 20px;
         font-weight: none;
         background-color: transparent;
     }
 
     h3 {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         font-size: 16px;
         font-weight: none;
     }
 
     h4 {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         font-size: 16px;
         font-weight: none;
     }
 
     h5 {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         font-size: 16px;
         font-weight: none;
     }
 
     a {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         display: inline-block;
         color: #16f111;
         background-color: transparent;
@@ -73,7 +75,7 @@
     }
 
     a:hover {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         display: inline-block;
         color: #f8f8f8;
         background-color: transparent;
@@ -83,7 +85,7 @@
     }
 
     ul {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         float: right;
         list-style-type: none;
         margin-top: 25px;
@@ -91,7 +93,7 @@
     }
 
     ul li {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         display: inline-block;
         color: #16f111;
         background-color: transparent;
@@ -101,7 +103,7 @@
     }
 
     ul li a {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         text-decoration: none;
         color: #f8f8f8;
         padding: 5px 10px;
@@ -113,7 +115,7 @@
     }
 
     ul li a:hover {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         text-decoration: none;
         color: #16f111;
         padding: 5px 10px;
@@ -124,7 +126,7 @@
     } 
 
     p {
-        font-family: 'Roboto Mono';
+        font-family: 'Roboto Mono', sans-serif;
         font-size: 18px;
         font-weight: none;
         color: #f8f8f8;
