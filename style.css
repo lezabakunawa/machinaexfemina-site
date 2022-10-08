@@ -10,6 +10,10 @@
 
 @media only screen and (max-width: 450px) {
 
+    .wrapper {
+        width: 100%;
+    }
+
     header {
         background-image: url(../machinaexfemina-site/imgs/assets/mxf\ black.png);
         height: 555px;
