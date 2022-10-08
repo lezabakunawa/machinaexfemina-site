@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-        font-family: 'Roboto Mono';
+        font-family: 'robotomono-regular';
             src: url('robotomono-regular-webfont.eot');
             src: url('robotomono-regular-webfont.eot?#iefix') format('embedded-opentype'),
                 url('robotomono-regular-webfont.woff2') format('woff2'),
