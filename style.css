@@ -21,7 +21,7 @@
 
 
     header {
-        background-image: url(/imgs/assets/header\ img\ small.png);
+        background-image: url(../machinaexfemina-site/imgs/assets/mxf\ black.png);
         height: 555px;
         background-size: contain;
         background-position: right;
@@ -43,10 +43,6 @@
         padding-bottom: 50px;
         padding-left: 100px;
         padding-right: 100px;
-    }
-
-    .footerlogo {
-        width: 150px;
     }
 
     h1 {
