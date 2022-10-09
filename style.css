@@ -27,6 +27,7 @@
         background-position: right;
         margin-top: 0px;
         background-repeat: no-repeat;
+        background-color: #000;
     }
 
     footer {
@@ -241,6 +242,7 @@
             background-size: contain;
             background-position: right;
             margin-top: 0px;
+            background-color: #000;
         }
 
         footer {
