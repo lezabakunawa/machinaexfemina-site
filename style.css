@@ -39,10 +39,8 @@
     }
 
     .footerlinks {
-        padding-top: 50px;
-        padding-bottom: 50px;
-        padding-left: 100px;
-        padding-right: 100px;
+        float: center;
+        margin-top 100px;
     }
 
     h1 {
