@@ -237,9 +237,9 @@
 @media only screen and (min-width: 1366px) {
 
         header {
-            background-image: url(/imgs/assets/small\ banner.jpg);
+            background-image: url(/imgs/assets/smaller\ banner.jpg);
             height: 638px;
-            background-size: contain;
+            background-size: 100%;
             background-position: right;
             margin-top: 0px;
         }
