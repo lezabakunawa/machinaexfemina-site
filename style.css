@@ -250,7 +250,8 @@
             background-position: right;
             width: 100%;
             margin-top: 0px;
-            margin-left: 175px;
+            padding-left: 175px;
+            padding-right: 0px;
             background: #000;
         }
 
