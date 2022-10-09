@@ -24,6 +24,7 @@
         background-image: url(/imgs/assets/header\ img\ small.png);
         height: 555px;
         background-size: contain;
+        background-position: right;
         background-repeat: no-repeat;
         background-color: #000;
         width: 100%;
