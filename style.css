@@ -239,7 +239,7 @@
         header {
             background-image: url(/imgs/assets/smaller\ banner.jpg);
             height: 638px;
-            background-size: 100%;
+            background-size: contain;
             background-position: right;
             margin-top: 0px;
         }
