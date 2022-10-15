@@ -193,7 +193,7 @@
         border-color: #f8f8f8;
         padding: 25px;
         background-color: transparent;
-
+        width: 222px;
     }
 
     .goals {
@@ -397,6 +397,7 @@
             border-color: #f8f8f8;
             padding: 25px;
             background-color: transparent;
+            width: 222px;
 
         }
 
