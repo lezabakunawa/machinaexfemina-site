@@ -346,7 +346,7 @@
             background-color: transparent;
         }
 
-        .intro {
+        .general {
             background-color: #111111;
             padding-top: 75px;
             padding-bottom: 75px;
@@ -358,7 +358,7 @@
             font-size: 28px;
             color: #111111;
             background-color: transparent;
-            background-image: url(../machinaexfemina-site/imgs/assets/cyber.jpg);
+            background-image: url(/imgs/assets/cyber.jpg);
             background-size: cover;
             background-position: center;
             padding-top: 700px;
