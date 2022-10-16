@@ -245,6 +245,8 @@
             background-color: #000;
         }
 
+
+
         footer {
             margin-top: 0px;
             padding-left: 175px;
@@ -300,10 +302,10 @@
         }
 
         ul {
-            margin-top: 0px;
-            margin-right: 150px;
             list-style-type: none;
             background-color: transparent;
+            padding: 0;
+            margin-right: 150px;
         }
 
         ul li {
