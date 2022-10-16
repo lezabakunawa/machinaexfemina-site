@@ -239,6 +239,8 @@
         header {
             background-image: url(/imgs/assets/smaller\ banner.jpg);
             height: 638px;
+            padding-top: 25px;
+            padding-left: 100px;
             background-size: contain;
             background-position: right;
             margin-top: 0px;
@@ -304,7 +306,6 @@
             list-style-type: none;
             margin-top: 25px;
             background-color: transparent;
-            margin-right: 100px;
         }
 
         ul li {
@@ -338,8 +339,6 @@
         }
 
         .logo img {
-            margin-top: 25px;
-            margin-left: 100px;
             float: left;
             width: 250px;
             height: auto;
