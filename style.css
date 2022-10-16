@@ -137,7 +137,7 @@
         margin-top: 25px;
         margin-left: 25px;
         float: left;
-        width: 111px;
+        width: 150px;
         height: auto;
         background-color: transparent;
     }
@@ -338,10 +338,10 @@
         }
 
         .logo img {
-            margin-top: 25px;
-            margin-left: 100px;
+            padding-top: 25px;
+            padding-left: 100px;
             float: left;
-            width: 250px;
+            width: 111px;
             height: auto;
             background-color: transparent;
         }
