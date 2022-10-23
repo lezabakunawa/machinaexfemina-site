@@ -89,42 +89,55 @@
         text-decoration: none;
     }
 
-    ul {
-        float: right;
-        list-style-type: none;
-        margin-top: 25px;
-        background-color: transparent;
-    }
-
-    ul li {
-        display: inline-block;
-        color: #16f111;
-        background-color: transparent;
-        font-size: 16px;
-        font-weight: none;
-        text-decoration: none;
-    }
-
-    ul li a {
-        text-decoration: none;
+    .checkbtn {
+        font-size: 30px;
         color: #f8f8f8;
-        padding: 5px 10px;
-        border: 0px solid #f8f8f8;
-        transition: 0.5s ease;
-        background-color: transparent;
-        font-size: 16px;
-        font-weight: none;
+        float: right;
+        line-height: 80px;
+        margin-right: 40px;
+        cursor: pointer;
     }
 
-    ul li a:hover {
-        text-decoration: none;
-        color: #16f111;
-        padding: 5px 10px;
-        border: 0px solid #000;
-        background-color: transparent;
-        font-size: 16px;
-        font-weight: none;
-    } 
+    .checkbtn {
+        display: block;
+    }
+    
+    #check {
+        display: none;
+    }
+
+    nav ul {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: #000;
+        margin-top: 60px;
+        margin-bottom: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        text-align: right;
+        transition: all .5s;
+    }
+
+    nav ul li {
+        display: block;
+        padding-top: 0px;
+        padding-right: 30px;
+        padding-left: 0px;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        line-height: 30px;
+    }
+
+    ul {
+        display: none;
+    }
+    
+    #check:checked ~ ul {
+        display: block;
+    }
 
     body {
         font-size: 18px;
@@ -234,7 +247,11 @@
 
 /* full screen 1366 min */
 
-@media only screen and (min-width: 1366px) {
+@media only screen and (min-width: 1363px) {
+
+        .checkbtn {
+            display: none;
+        }
 
         header {
             background-image: url(/imgs/assets/smaller\ banner.jpg);
@@ -301,15 +318,17 @@
             text-decoration: none;
         }
 
-        ul {
+        nav ul {
+            display: inline-block;
             list-style-type: none;
             background-color: transparent;
             padding: 0;
             margin-top: 25px;
             margin-right: 150px;
+            display: block;
         }
 
-        ul li {
+        nav ul li {
             display: inline-block;
             color: #16f111;
             background-color: transparent;
@@ -318,7 +337,7 @@
             text-decoration: none;
         }
 
-        ul li a {
+        nav ul li a {
             text-decoration: none;
             color: #f8f8f8;
             padding: 5px 10px;
@@ -329,7 +348,7 @@
             font-weight: none;
         }
 
-        ul li a:hover {
+        nav ul li a:hover {
             text-decoration: none;
             color: #16f111;
             padding: 5px 10px;
