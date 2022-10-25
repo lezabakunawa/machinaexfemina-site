@@ -211,7 +211,10 @@
     }
 
     .divider {
-        border-bottom: 3px;
+        border-width: 3px;
+        border-right: 0px;
+        border-left: 0px;
+        border-top: 0px;
         border-color: #16f111;
         padding: 25px;
         background-color: transparent;
