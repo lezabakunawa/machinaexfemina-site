@@ -32,14 +32,6 @@
 
     footer {
         height:300px;
-        width: 100%;
-        background: #000;
-    }
-
-    .footerlinks {
-        padding-top: 50px;
-        padding-bottom: 50px;
-        padding-left: 50px;
         background: #000;
     }
 
@@ -273,9 +265,8 @@
             background-color: #000;
         }
 
-
-
         footer {
+            float: right;
             margin-top: 0px;
             padding-left: 175px;
             padding-right: 0px;
