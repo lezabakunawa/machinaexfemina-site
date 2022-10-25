@@ -266,7 +266,7 @@
 
         .footerlinks {
             float: right;
-            margin-left: 600px;
+            padding-left: 600px;
         }
 
         h1 {
