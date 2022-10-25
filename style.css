@@ -315,7 +315,7 @@
             display: inline-block;
             color: #16f111;
             background-color: transparent;
-            font-size: 20px;
+            font-size: 16px;
             font-weight: none;
             text-decoration: none;
         }
@@ -324,7 +324,7 @@
             display: inline-block;
             color: #f8f8f8;
             background-color: transparent;
-            font-size: 20px;
+            font-size: 16px;
             font-weight: none;
             text-decoration: none;
         }
@@ -338,14 +338,14 @@
             margin-top: 25px;
             margin-right: 150px;
             display: block;
-            font-size: 20px;
+            font-size: 16px;
         }
 
         nav ul li {
             display: inline-block;
             color: #16f111;
             background-color: transparent;
-            font-size: 20px;
+            font-size: 16px;
             font-weight: none;
             text-decoration: none;
         }
@@ -357,7 +357,7 @@
             border: 0px solid #f8f8f8;
             transition: 0.5s ease;
             background-color: transparent;
-            font-size: 20px;
+            font-size: 16px;
             font-weight: none;
         }
 
@@ -367,7 +367,7 @@
             padding: 5px 10px;
             border: 0px solid #000;
             background-color: transparent;
-            font-size: 20px;
+            font-size: 16px;
             font-weight: none;
         }
 
