@@ -269,6 +269,7 @@
         .footerlinks {
             background-color: #000;
             float: right;
+            background: 100%;
             padding-right: 150px;
             padding-bottom: 50px;
         }
