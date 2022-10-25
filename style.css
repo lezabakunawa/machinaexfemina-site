@@ -261,11 +261,11 @@
         }
 
         footer {
-            float: right;
-            margin-top: 0px;
-            padding-left: 175px;
-            padding-right: 0px;
             background: #000;
+        }
+
+        .footerlinks {
+            float: right;
         }
 
         h1 {
