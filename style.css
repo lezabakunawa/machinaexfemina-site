@@ -131,6 +131,14 @@
         line-height: 30px;
     }
 
+    nav ul li a:hover {
+        text-decoration: none;
+        color: #f8f8f8;
+        border-bottom: 1px solid #f8f8f8;
+        background-color: transparent;
+        font-weight: none;
+    }
+
     ul {
         display: none;
     }
@@ -319,7 +327,8 @@
         }
 
         nav ul {
-            display: inline-block;
+            position: absolute;
+            float: right;
             list-style-type: none;
             background-color: transparent;
             padding: 0;
