@@ -210,6 +210,13 @@
 
     }
 
+    .divider {
+        border-bottom: 3px;
+        border-color: #16f111;
+        padding: 25px;
+        background-color: transparent;
+    }
+
     .btn {
         border-width: 1px;
         border-style: solid;
