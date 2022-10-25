@@ -268,7 +268,7 @@
 
         .footerlinks {
             background-color: #000;
-            float: right;
+            text-align: right;
         }
 
         h1 {
