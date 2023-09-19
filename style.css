@@ -153,7 +153,7 @@
     body {
         font-size: 18px;
         font-weight: none;
-        color: #f8f8f8;
+        color: #111111;
         background-color: transparent;
     }
 
@@ -176,7 +176,7 @@
 
     .inspiringx {
         font-size: 28px;
-        color: #fffff1;
+        color: #111;
         background-color: transparent;
         background-image: url(/imgs/assets/glasses.jpg);
         background-size: cover;
@@ -190,7 +190,7 @@
 
     .inspiringy {
         font-size: 28px;
-        color: #fffff1;
+        color: #111;
         background-color: transparent;
         background-image: url(/imgs/assets/friends.png);
         background-size: cover;
@@ -204,7 +204,7 @@
     .tbl {
         border-width: 1px;
         border-style: solid;
-        border-color: #f8f8f8;
+        border-color: #111;
         padding: 25px;
         background-color: transparent;
 
@@ -213,7 +213,7 @@
     .btn {
         border-width: 1px;
         border-style: solid;
-        border-color: #f8f8f8;
+        border-color: #111;
         padding: 25px;
         background-color: transparent;
         width: 222px;
@@ -392,7 +392,7 @@
 
         .inspiringx {
             font-size: 28px;
-            color: #fffff1;
+            color: #111;
             background-color: transparent;
             background-image: url(/imgs/assets/glasses.jpg);
             background-size: cover;
@@ -406,7 +406,7 @@
 
         .inspiringy {
             font-size: 28px;
-            color: #fffff1;
+            color: #111;
             background-color: transparent;
             background-image: url(/imgs/assets/friends.png);
             background-size: cover;
@@ -421,7 +421,7 @@
         .tbl {
             border-width: 1px;
             border-style: solid;
-            border-color: #f8f8f8;
+            border-color: #111;
             padding: 25px;
             background-color: transparent;
 
