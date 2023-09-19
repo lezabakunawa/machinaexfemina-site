@@ -37,7 +37,7 @@
     }
 
     .footerlinks {
-        background-color: #000;
+        background-color: #fffff1;
         text-align: center;
         padding: 50px;
         margin-top: 0px;
@@ -244,7 +244,7 @@
     }
 
     .inquiry {
-        background-color: #16f111;
+        background-color: #ADD8E6;
         padding-top: 25px;
         padding-bottom: 25px;
         padding-left: 50px;
@@ -290,7 +290,7 @@
         h1 {
             font-size: 24px;
             font-weight: none;
-            color: #16f111;
+            color: #ADD8E6;
             background-color: transparent;
         }
 
@@ -317,7 +317,7 @@
 
         a {
             display: inline-block;
-            color: #16f111;
+            color: #ADD8E6;
             background-color: transparent;
             font-size: 18px;
             font-weight: none;
@@ -347,7 +347,7 @@
 
         nav ul li {
             display: inline-block;
-            color: #16f111;
+            color: #ADD8E6;
             background-color: transparent;
             font-size: 18px;
             font-weight: none;
@@ -367,7 +367,7 @@
 
         nav ul li a:hover {
             text-decoration: none;
-            color: #16f111;
+            color: #ADD8E6;
             padding: 5px 10px;
             border: 0px solid #000;
             background-color: transparent;
@@ -462,7 +462,7 @@
         }
 
         .inquiry {
-            background-color: #16f111;
+            background-color: #ADD8E6;
             padding-top: 75px;
             padding-bottom: 75px;
             padding-left: 350px;
