@@ -23,7 +23,7 @@
     header {
         background-image: url(/imgs/assets/new\ girl.jpg);
         height: 333px;
-        background-size: contain;
+        background-size: fill;
         background-position: right;
         margin-top: 0px;
         background-repeat: no-repeat;
@@ -266,7 +266,7 @@
         header {
             background-image: url(/imgs/assets/new\ girl.jpg);
             height: 638px;
-            background-size: contain;
+            background-size: fill;
             background-position: right;
             margin-top: 0px;
             background-color: #fffff1;
