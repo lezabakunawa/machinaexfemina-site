@@ -167,7 +167,7 @@
     }
 
     .general {
-        background-color: #111111;
+        background-color: #fffff1;
         padding-top: 25px;
         padding-bottom: 25px;
         padding-left: 50px;
@@ -176,7 +176,7 @@
 
     .inspiringx {
         font-size: 28px;
-        color: #111111;
+        color: #fffff1;
         background-color: transparent;
         background-image: url(/imgs/assets/glasses.jpg);
         background-size: cover;
@@ -190,7 +190,7 @@
 
     .inspiringy {
         font-size: 28px;
-        color: #111111;
+        color: #fffff1;
         background-color: transparent;
         background-image: url(/imgs/assets/friends.png);
         background-size: cover;
@@ -220,7 +220,7 @@
     }
 
     .goals {
-        background-color: #111111;
+        background-color: #fffff1;
         padding-top: 50px;
         padding-bottom: 50px;
         padding-left: 50px;
@@ -228,7 +228,7 @@
     }
 
     .contribute {
-        background-color: #114611;
+        background-color: #fffff1;
         padding-top: 50px;
         padding-bottom: 50px;
         padding-left: 50px;
@@ -236,7 +236,7 @@
     }
 
     .need {
-        background-color: #111111;
+        background-color: #fffff1;
         padding-top: 25px;
         padding-bottom: 25px;
         padding-left: 50px;
@@ -269,18 +269,18 @@
             background-size: contain;
             background-position: right;
             margin-top: 0px;
-            background-color: #000;
+            background-color: #fffff1;
         }
 
         footer {
-            background-color: #000;
+            background-color: #fffff1;
             padding-top: 50px;
             padding-left: 150px;
             text-align: left;
         }
 
         .footerlinks {
-            background-color: #000;
+            background-color: #fffff1;
             text-align: right;
             padding-right: 150px;
             padding-bottom: 50px;
@@ -326,7 +326,7 @@
 
         a:hover {
             display: inline-block;
-            color: #f8f8f8;
+            color: #111111;
             background-color: transparent;
             font-size: 18px;
             font-weight: none;
@@ -356,7 +356,7 @@
 
         nav ul li a {
             text-decoration: none;
-            color: #f8f8f8;
+            color: #111111;
             padding: 5px 10px;
             border: 0px solid #f8f8f8;
             transition: 0.5s ease;
@@ -383,7 +383,7 @@
         }
 
         .general {
-            background-color: #111111;
+            background-color: #fffff1;
             padding-top: 75px;
             padding-bottom: 75px;
             padding-left: 350px;
@@ -392,7 +392,7 @@
 
         .inspiringx {
             font-size: 28px;
-            color: #111111;
+            color: #fffff1;
             background-color: transparent;
             background-image: url(/imgs/assets/glasses.jpg);
             background-size: cover;
@@ -406,7 +406,7 @@
 
         .inspiringy {
             font-size: 28px;
-            color: #111111;
+            color: #fffff1;
             background-color: transparent;
             background-image: url(/imgs/assets/friends.png);
             background-size: cover;
@@ -430,7 +430,7 @@
         .btn {
             border-width: 1px;
             border-style: solid;
-            border-color: #f8f8f8;
+            border-color: #111111;
             padding: 25px;
             background-color: transparent;
             width: 222px;
@@ -438,7 +438,7 @@
         }
 
         .goals {
-            background-color: #111111;
+            background-color: #fffff1;
             padding-top: 75px;
             padding-bottom: 75px;
             padding-left: 350px;
@@ -446,7 +446,7 @@
         }
 
         .contribute {
-            background-color: #114611;
+            background-color: #fffff1;
             padding-top: 75px;
             padding-bottom: 75px;
             padding-left: 350px;
@@ -454,7 +454,7 @@
         }
 
         .need {
-            background-color: #111111;
+            background-color: #fffff1;
             padding-top: 75px;
             padding-bottom: 75px;
             padding-left: 350px;
